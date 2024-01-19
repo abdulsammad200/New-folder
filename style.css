@@ -239,3 +239,240 @@ ul > li {
   bottom: 20px;
   left: 80px;
 }
+.cozy {
+  color: rgb(101, 100, 100);
+  position: relative;
+  left: 10px;
+  bottom: 15px;
+}
+.let {
+  height: 30px;
+  width: 70%;
+  border: none;
+  color: white;
+  background-color: rgb(15, 133, 121);
+  border-radius: 5px;
+  position: relative;
+  left: 45px;
+  bottom: 10px;
+}
+.green3 {
+  border-radius: 30px;
+  height: 150px;
+  width: 97%;
+  background-color: rgb(15, 133, 121);
+  margin-top: 5px;
+  margin-left: 5px;
+}
+.number2 {
+  display: inline-block;
+  margin-left: 15px;
+}
+.loc {
+  color: white;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.fa-location-dot {
+  color: rgb(242, 220, 131);
+  margin-left: 20px;
+}
+.new {
+  color: white;
+  position: relative;
+  bottom: 21px;
+  left: 40px;
+}
+.icon {
+  height: 40px;
+  width: 40px;
+  border-radius: 5px;
+  background-color: rgb(105, 182, 174);
+  position: relative;
+  left: 65%;
+  bottom: 40px;
+}
+.icon2 {
+  height: 40px;
+  width: 40px;
+  border-radius: 5px;
+  background-color: rgb(105, 182, 174);
+  position: relative;
+  left: 82%;
+  bottom: 80px;
+}
+.fa-cart-shopping {
+  color: white;
+  margin-left: 10px;
+  margin-top: 13px;
+}
+.fa-bell {
+  color: white;
+  margin-left: 12px;
+  margin-top: 12px;
+}
+.search {
+  height: 30px;
+  width: 75%;
+  border: 1px solid black;
+  border-radius: 5px;
+  position: relative;
+  bottom: 70px;
+  left: 15px;
+}
+.white2 {
+  height: 30px;
+  width: 35px;
+  background-color: white;
+  border-radius: 5px;
+  position: relative;
+  bottom: 100px;
+  left: 82%;
+}
+.fa-toggle-on {
+  font-size: 20px;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+.special {
+  font-size: 20px;
+  position: relative;
+  bottom: 70px;
+  left: 20px;
+}
+.see {
+  color: rgb(15, 133, 121);
+  position: relative;
+  bottom: 90px;
+  left: 220px;
+}
+.white3 {
+  height: 150px;
+  width: 90%;
+  background-color: rgb(255, 255, 255);
+  border-radius: 25px;
+  position: relative;
+  bottom: 75px;
+  left: 15px;
+  box-shadow: 1px 1px 10px rgb(221, 216, 216);
+}
+.today2 {
+  padding-top: 10px;
+  margin-left: 20px;
+  font-size: 10px;
+}
+.get2 {
+  color: rgb(69, 68, 68);
+  padding-left: 10px;
+  padding-top: 10px;
+}
+.up {
+  color: rgb(69, 68, 68);
+  padding-left: 10px;
+  padding-top: 5px;
+}
+.number3 {
+  color: rgb(69, 68, 68);
+  position: relative;
+  left: 19%;
+  bottom: 13%;
+}
+.order3 {
+  color: white;
+  background-color: rgb(15, 133, 121);
+  height: 35px;
+  width: 100px;
+  border: none;
+  border-radius: 30px;
+  position: relative;
+  bottom: 17px;
+  left: 20px;
+}
+.img2 {
+  height: 149px;
+  width: 120px;
+  border: 1px solid rgb(255, 255, 255);
+  position: relative;
+  bottom: 106%;
+  left: 54%;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 25px;
+  border-bottom-right-radius: 25px;
+  border-bottom-left-radius: 50%;
+  background-image: url("https://img.freepik.com/premium-photo/young-handsome-teenage-boy-drinking-coffee-sit-cafe-reading-paper-book-millennials-lifestyle_260913-3405.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.flex {
+  display: flex;
+  position: relative;
+  bottom: 145px;
+  left: 90px;
+}
+.green4 {
+  height: 10px;
+  width: 10px;
+  background-color: rgb(15, 133, 121);
+  border-radius: 50%;
+}
+.white4 {
+  height: 10px;
+  width: 10px;
+  background-color: rgb(217, 212, 212);
+  border-radius: 50%;
+}
+.reward {
+  position: relative;
+  bottom: 140px;
+  font-size: 20px;
+}
+.number4 {
+  color: rgb(15, 133, 121);
+  position: relative;
+  bottom: 168px;
+  left: 102px;
+  font-size: 20px;
+}
+.white5 {
+  display: flex;
+  justify-content: space-evenly;
+  height: 60px;
+  width: 100%;
+  border: 1px solid rgb(255, 255, 255);
+  position: relative;
+  bottom: 110%;
+  box-shadow: 1px 1px 10px rgb(221, 216, 216);
+  border-radius: 25px;
+}
+.green5 {
+  height: 40px;
+  width: 40px;
+  background-color: rgb(15, 133, 121);
+  border-radius: 50%;
+}
+.gray {
+  height: 40px;
+  width: 40px;
+  background-color: rgb(231, 224, 224);
+  border-radius: 50%;
+}
+.fa-mug-hot {
+  color: white;
+  position: relative;
+  left: 9px;
+  top: 5px;
+  font-size: 25px;
+}
+.flex3{
+  display: flex;
+  justify-content: space-evenly;
+  position: relative;
+  bottom: 125%;
+  font-size: 13px;
+}
+.Featured {
+  position: relative;
+  top: 50%;
+  font-size: 20px;
+}
