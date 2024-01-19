@@ -183,4 +183,59 @@ ul > li {
   width: 80%;
   border: 1px solid black;
   margin: auto;
+  display: flex;
+  justify-content: space-evenly;
+}
+.firstcard {
+  height: 550px;
+  width: 300px;
+  /* border: 1px solid black; */
+  background-color: white;
+  border-radius: 30px;
+}
+.secondcard {
+  height: 600px;
+  width: 300px;
+  /* border: 1px solid black; */
+  margin-top: -30px;
+  background-color: white;
+  border-radius: 30px;
+}
+.thirdcard {
+  height: 550px;
+  width: 300px;
+  /* border: 1px solid black; */
+  background-color: white;
+  border-radius: 30px;
+}
+.number {
+  display: inline-block;
+  margin-left: 20px;
+  margin-top: 15px;
+}
+.person {
+  background-image: url("https://img.freepik.com/premium-photo/very-good-drink-smiling-stylish-guy-drinking-coffee-showing-thumbs-up-praise-coffee-shop-standing-satisfied-white-background_1258-45199.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 350px;
+  width: 100%;
+  /* border: 1px solid black; */
+  margin-top: 20px;
+}
+.step {
+  position: relative;
+  left: 45px;
+}
+.world {
+  color: rgb(15, 133, 121);
+  position: relative;
+  left: 170px;
+  bottom: 24px;
+}
+.coffee {
+  color: rgb(15, 133, 121);
+  position: relative;
+  bottom: 20px;
+  left: 80px;
 }
